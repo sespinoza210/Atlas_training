@@ -54,7 +54,7 @@ export default function Page() {
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 	HERE 
 	</a>
-	 IF YOU ARE DOING ATLAS TRAINING.
+	 , IF YOU ARE DOING ATLAS TRAINING.
           </p>
         </Hero>
         <section className={styles.explore}>
