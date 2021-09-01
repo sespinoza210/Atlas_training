@@ -32,7 +32,7 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="Get Started with Headless"
+          title="Get Started With Making Changes"
           buttonText="Developer Docs"
           buttonURL="https://developers.wpengine.com/"
           button2Text="Headless on GitHub"
@@ -50,7 +50,10 @@ export default function Page() {
               headless packages
             </a>
             , and <a href="https://developers.wpengine.com/">tutorials</a> to
-            make building headless WordPress sites fast and fun.
+            make building headless WordPress sites fast and fun. Click {' '}
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+	HERE
+	</a>
           </p>
         </Hero>
         <section className={styles.explore}>
