@@ -52,9 +52,9 @@ export default function Page() {
             , and <a href="https://developers.wpengine.com/">tutorials</a> to
             make building headless WordPress sites fast and fun. Click {' '}
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-	HERE
+	HERE 
 	</a>
-	IF YOU ARE DOING ATLAS TRAINING
+	 IF YOU ARE DOING ATLAS TRAINING.
           </p>
         </Hero>
         <section className={styles.explore}>
